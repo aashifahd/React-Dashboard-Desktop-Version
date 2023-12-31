@@ -1,4 +1,4 @@
-import "./app.css";
+import "./App.css";
 import Dashboard from "./components/Dashboard";
 import NavigationBar from "./components/NavigationBar";
 
